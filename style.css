@@ -1,0 +1,24 @@
+body {
+    padding:0px;
+    margin: 0px;
+    background-color:#9C4;
+    font-family: Arial;
+}
+
+.links {
+    text-decoration: none;
+    color:#333;
+}
+
+.parentLinks {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    font-size:36px;
+}
+
+p {
+    color:#555;
+}

@@ -29,7 +29,7 @@ Now add some text to the page in a div. After the ```</nav>``` tag, but still in
     <head></head>
     <body>
         <nav>
-			<a>Home</a>
+            <a>Home</a>
 			<a>Page 1</a>
 			<a>Page 2</a>
 		</nav>
